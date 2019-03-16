@@ -1,0 +1,1 @@
+ this is a test file for pipeline set up between git,jenkins and artifactory
